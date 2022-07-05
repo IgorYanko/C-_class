@@ -1,0 +1,16 @@
+C:\Users\Professor\OneDrive\Área de Trabalho\Barbara_LingProg\CSharp\meuPrimeiroProjeto\bin\Debug\net5.0\meuPrimeiroProjeto.exe
+C:\Users\Professor\OneDrive\Área de Trabalho\Barbara_LingProg\CSharp\meuPrimeiroProjeto\bin\Debug\net5.0\meuPrimeiroProjeto.deps.json
+C:\Users\Professor\OneDrive\Área de Trabalho\Barbara_LingProg\CSharp\meuPrimeiroProjeto\bin\Debug\net5.0\meuPrimeiroProjeto.runtimeconfig.json
+C:\Users\Professor\OneDrive\Área de Trabalho\Barbara_LingProg\CSharp\meuPrimeiroProjeto\bin\Debug\net5.0\meuPrimeiroProjeto.runtimeconfig.dev.json
+C:\Users\Professor\OneDrive\Área de Trabalho\Barbara_LingProg\CSharp\meuPrimeiroProjeto\bin\Debug\net5.0\meuPrimeiroProjeto.dll
+C:\Users\Professor\OneDrive\Área de Trabalho\Barbara_LingProg\CSharp\meuPrimeiroProjeto\bin\Debug\net5.0\ref\meuPrimeiroProjeto.dll
+C:\Users\Professor\OneDrive\Área de Trabalho\Barbara_LingProg\CSharp\meuPrimeiroProjeto\bin\Debug\net5.0\meuPrimeiroProjeto.pdb
+C:\Users\Professor\OneDrive\Área de Trabalho\Barbara_LingProg\CSharp\meuPrimeiroProjeto\obj\Debug\net5.0\meuPrimeiroProjeto.csprojAssemblyReference.cache
+C:\Users\Professor\OneDrive\Área de Trabalho\Barbara_LingProg\CSharp\meuPrimeiroProjeto\obj\Debug\net5.0\meuPrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professor\OneDrive\Área de Trabalho\Barbara_LingProg\CSharp\meuPrimeiroProjeto\obj\Debug\net5.0\meuPrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\Professor\OneDrive\Área de Trabalho\Barbara_LingProg\CSharp\meuPrimeiroProjeto\obj\Debug\net5.0\meuPrimeiroProjeto.AssemblyInfo.cs
+C:\Users\Professor\OneDrive\Área de Trabalho\Barbara_LingProg\CSharp\meuPrimeiroProjeto\obj\Debug\net5.0\meuPrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Professor\OneDrive\Área de Trabalho\Barbara_LingProg\CSharp\meuPrimeiroProjeto\obj\Debug\net5.0\meuPrimeiroProjeto.dll
+C:\Users\Professor\OneDrive\Área de Trabalho\Barbara_LingProg\CSharp\meuPrimeiroProjeto\obj\Debug\net5.0\ref\meuPrimeiroProjeto.dll
+C:\Users\Professor\OneDrive\Área de Trabalho\Barbara_LingProg\CSharp\meuPrimeiroProjeto\obj\Debug\net5.0\meuPrimeiroProjeto.pdb
+C:\Users\Professor\OneDrive\Área de Trabalho\Barbara_LingProg\CSharp\meuPrimeiroProjeto\obj\Debug\net5.0\meuPrimeiroProjeto.genruntimeconfig.cache
